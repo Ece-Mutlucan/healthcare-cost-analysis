@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Local workbook and generated extract (add only if public redistribution is approved)
+data/healthcare_dataset.xlsx
+data/processed/
+*.csv
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
